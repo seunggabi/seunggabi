@@ -32,3 +32,7 @@
 ![HBASE](https://img.shields.io/badge/-HBASE-333333?style=flat&logo=HBASE&logoColor=white)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Spark&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS&logoColor=white)&nbsp;
+
+---
+
+ref: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
