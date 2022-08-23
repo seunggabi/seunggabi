@@ -1,4 +1,4 @@
-### https://sugar-prince-121.notion.site/Project-b7d400b21fe045a5a9ff6742eacbfde3
+### [### Hi there 👋 I'm seunggabi](https://sugar-prince-121.notion.site/Project-b7d400b21fe045a5a9ff6742eacbfde3)
 
 🤔 I like making a program.\
 🌱 My MBTI type is INTJ.
