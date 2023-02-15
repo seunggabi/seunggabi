@@ -5,7 +5,7 @@
 
 ### 🤝🏻 &nbsp;Contacts
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunggabi)](www.linkedin.com/in/seunggabi/)\
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunggabi)](https://www.linkedin.com/in/seunggabi/)\
 [![LeetCode user seunggabi](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fseunggabi&logo=leetcode&logoColor=yellow)](https://leetcode.com/seunggabi/)\
 <a href="mailto:seunggabi@gmail.com"><img src="https://img.shields.io/badge/-seunggabi@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white"/></a>\
 <a href="https://instagram.com/seunggabi"><img src="https://img.shields.io/badge/-seunggabi-333333?style=flat-square&logo=Instagram&logoColor=white"/></a>\
