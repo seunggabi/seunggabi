@@ -4,5 +4,5 @@
 <a href="mailto:seunggabi@gmail.com"><img src="https://img.shields.io/badge/-seunggabi@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### [ai-heatmap](https://github.com/seunggabi/ai-heatmap)
-![ai-heatmap](https://seunggabi-ai-heatmap.vercel.app/api/heatmap?theme=dark)
+![ai-heatmap](https://seunggabi-ai-heatmap.vercel.app/api/heatmap?colorScheme=dark)
 
