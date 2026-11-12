@@ -8,6 +8,6 @@
 
 
 ### [intellij-branch-title](https://github.com/seunggabi/intellij-branch-title)
-IntelliJ plugin: git branch + terminal status (⏳/✓) in project window tabs · [Download](https://github.com/seunggabi/intellij-branch-title/releases/latest)
+IntelliJ plugin: git branch + terminal status (⏳/✓) in project window tabs · [Marketplace](https://plugins.jetbrains.com/plugin/35988-branch-tab-title) · [Download](https://github.com/seunggabi/intellij-branch-title/releases/latest)
 
 [![Stars](https://img.shields.io/github/stars/seunggabi/intellij-branch-title?style=social)](https://github.com/seunggabi/intellij-branch-title/stargazers)
