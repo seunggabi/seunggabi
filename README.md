@@ -2,6 +2,8 @@
 
 10 years in software, 8+ years in data engineering. I build and run data platforms from CDC and streaming to an Iceberg lakehouse and BI. When the root cause is in open source, I fix it upstream.
 
+At scale: CDC for hundreds of MySQL tables into Iceberg within a minute, millions of app events a day, 1,000+ Airflow DAGs, and a log system handling hundreds of millions of events a day.
+
 [![Blog](https://img.shields.io/badge/-Blog-0A66C2?style=flat-square)](https://seunggabi.github.io/)
 [![Resume](https://img.shields.io/badge/-Resume-555555?style=flat-square)](https://seunggabi.github.io/resume-en/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunggabi)](https://www.linkedin.com/in/seunggabi/)
@@ -13,10 +15,11 @@
 - **Apache Spark**: `SparkSession.builder.config(Map)`, shipped in 3.4.0 ([#37478](https://github.com/apache/spark/pull/37478))
 - **Apache Airflow**: `TableauOperator` template fields ([#29360](https://github.com/apache/airflow/pull/29360)) · Airflow Helm chart release name fix ([#589](https://github.com/airflow-helm/charts/pull/589))
 - **PyAthena**: complex type parsing fix ([#763](https://github.com/pyathena-dev/PyAthena/pull/763))
+- In review: **Apache Iceberg** Kafka Connect, case-insensitive `id-columns` lookup ([#19042](https://github.com/apache/iceberg/pull/19042))
 
 ### Writing
 
-[seunggabi.github.io](https://seunggabi.github.io/): CDC, Kafka Connect, Iceberg, Flink and Spark internals, plus notes from production.
+[seunggabi.github.io](https://seunggabi.github.io/): 100+ posts on CDC, Kafka Connect, Iceberg, Flink and Spark internals, system design, and notes from production.
 
 ### Side projects
 
